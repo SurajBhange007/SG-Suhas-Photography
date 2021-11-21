@@ -88,7 +88,7 @@ html{
 }
 
 .firstSection {
-    height: 100vh;
+    height: 600px;
     /* background-image: url(../images/beach\ background.jfif); */
     background-color: rgb(212, 159, 23);
     background-size: cover;
@@ -208,7 +208,7 @@ html{
 }
 .contact{
     background-color: rgb(240, 205, 140);
-    height: 90vh;
+    height: 500px;
 }
 .textCenter{
     text-align: center;
